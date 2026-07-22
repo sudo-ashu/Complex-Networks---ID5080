@@ -1,0 +1,7 @@
+# Compute the edges of a network using partial correlations from the given time series data.
+
+Submission Guidelines: 
+- Upload an .ipynb file
+- Plot the time series data for each variable
+- Compute partial correlations (if the partial correlation between 2 nodes is < 0.1, do not consider it an edge)
+- Visualize the resulting network
